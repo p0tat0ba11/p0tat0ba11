@@ -1,4 +1,5 @@
-## Hi there 👋
+## ✨ p0tat0ba11 ✨
+- 👋 Hi, I'm p0tat0ba11
 
 <!--
 **p0tat0ba11/p0tat0ba11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
