@@ -2,6 +2,8 @@
 - 👋 Hi, I'm p0tat0ba11
 
 [![p0tat0ba11's GitHub stats](https://github-readme-stats.vercel.app/api?username=p0tat0ba11)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p0tat0ba11&langs_count=8)
 <!--
 **p0tat0ba11/p0tat0ba11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
